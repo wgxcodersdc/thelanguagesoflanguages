@@ -1,4 +1,5 @@
-thelanguageoflanguages
+The Language of Languages
 ======================
 
-WWCode Presentation on Languages, Variables, and a Bunch of Other Terms You Don't Know
+The slides from the original presentation can be found [here](http://helenvholmes.com/thelanguageoflanguages).
+
