@@ -16,13 +16,17 @@ Ensure you have Grunt installed:
 # Tasks
 [x] Languages
 [x] What makes up a language?
-[ ] What makes languages different from one another?
-[ ] HTML & CSS
-[ ] Tools Used for Coding
-[ ] What We Build With Code
-[ ] Frontend <em>vs</em> Backend
-[ ] Frameworks
-[ ] How We Suggest You Get Started
+[x] What makes languages different from one another?
+[x] HTML & CSS
+[x] Tools Used for Coding
+[x] Frameworks
+[x] What We Build With Code
+[x] Frontend <em>vs</em> Backend <!-- Is there a better place we can put this? -->
+[x] So What Should I Learn to Build <em>x</em>?
+[x] How We Suggest You Get Started
+[x] "But I want to build [x]. How should I learn that?"
+[x] What You Should Expect
+[ ] Brought to you by
 
 # Resources
 <!-- Should we organize them by language? -->
