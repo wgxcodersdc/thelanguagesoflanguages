@@ -19,4 +19,4 @@ Start up your local web server:
     grunt serve
 
 # Colophon
-This presentation was built using [RevealJShttp://lab.hakim.se/reveal-js/#/] from [Hakim El Hattab](http://hakim.se/).
+This presentation was built using [RevealJS](http://lab.hakim.se/reveal-js/#/) from [Hakim El Hattab](http://hakim.se/).
