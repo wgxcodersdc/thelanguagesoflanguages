@@ -14,27 +14,9 @@ Then install dependencies:
 
     npm install
 
-Ensure you have Grunt installed:
+Start up your local web server:
 
-    grunt something
-
-# Tasks
-- [x] Languages
-- [x] What makes up a language?
-- [x] What makes languages different from one another?
-- [x] HTML & CSS
-- [x] Tools Used for Coding
-- [x] Frameworks
-- [x] What We Build With Code
-- [x] Frontend _vs_ Backend
-- [x] So What Should I Learn to Build <em>x</em>?
-- [x] How We Suggest You Get Started
-- [x] "But I want to build [x]. How should I learn that?"
-- [x] What You Should Expect
-- [ ] Brought to you by
-
-# Resources
-<!-- Should we organize them by language? -->
+    grunt serve
 
 # Colophon
 This presentation was built using [RevealJShttp://lab.hakim.se/reveal-js/#/] from [Hakim El Hattab](http://hakim.se/).
