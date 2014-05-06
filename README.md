@@ -17,6 +17,16 @@ Then install dependencies:
 Start up your local web server:
 
     grunt serve
+    
+# Tasks 
+For next presentation, some improvements that would be good in the slides:
+- [ ] Add content management systems
+- [ ] Idea of hack vs hack (malicious _vs_ getting something up and running fast)
+- [ ] Discuss client-side _vs_ server-side: talking to people? talking to data?
+- [ ] Better description of javascript: why is it unique? why is it (normally) only used on the front-end? etc.
+- [ ] Languages/frameworks/etc. developed by women (COBOL, but is there anything more recent?)
+
+_Additional Notes_: not using 'he' for every programmer description but also 'she'.
 
 # Colophon
 This presentation was built using [RevealJS](http://lab.hakim.se/reveal-js/#/) from [Hakim El Hattab](http://hakim.se/).
